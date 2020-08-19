@@ -1,4 +1,4 @@
-## :recket: Node.js Basic concepts
+## :rocket: Node.js Basic concepts
 
 ### Resolution of the challenge **[Rocketseat](https://github.com/rocketseat-education/bootcamp-gostack-desafios/blob/master/desafio-conceitos-nodejs/README.en.md)**
 

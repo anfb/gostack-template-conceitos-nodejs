@@ -9,3 +9,9 @@
 - **`PUT /repositories/:id`**: The route only change the `title`, `URL` and `techs` of the repository that has the` id` parameter.
 - **`DELETE /repositories/:id`**: The route that delete a repository with the `id` present in the route parameters;
 - **`POST /repositories/:id/like`**: The route must increase the number of likes from the specific repository chosen through the `id` param present in the route parameters, at each call of this route, the number of likes will be increased by 1;
+
+### Usage
+run in terminal
+```bash
+Yarn
+```
